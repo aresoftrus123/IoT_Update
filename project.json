@@ -1,7 +1,7 @@
 {
   "name": "",
   "about": "",
-  "version": "1.0.2",
-  "notes": "",
+  "version": "1.0.1",
+  "notes": "", 
   "builds_path": "https://raw.githubusercontent.com/aresoftrus123/iot_bms/refs/heads/main/.pio/build/esp32dev/firmware.bin"
 }
