@@ -3,5 +3,5 @@
   "about": "",
   "version": "1.0.0",
   "notes": "", 
-  "builds_path": "https://raw.githubusercontent.com/aresoftrus123/IoT_Update/a47f0bc607eb25d38524e050c077e7607b8e92a7/.pio/build/esp32dev/firmware.bin"
+  "builds_path": ""
 }
